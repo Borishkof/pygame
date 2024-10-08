@@ -1,4 +1,4 @@
-## Pygame Documentation Overview
+# Pygame Documentation Overview
 
 ### Accessing Documentation
 
@@ -58,7 +58,7 @@ OR
 The pygame documentation files have developed the convention of a 79 character
 line limit, from PEP8.
 
-They also use a 3 space indent.
+They also use a 3 spaces indent.
 
 ## Pygame Documentation Implementation Details
 
